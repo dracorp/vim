@@ -1,0 +1,13 @@
+cmdargs:
+  # Checking more strictly
+  severity: style_problem
+
+policies:
+  ProhibitImplicitScopeVariable:
+    enabled: false
+  ProhibitAbbreviationOption:
+    enabled: false
+  ProhibitUnnecessaryDoubleQuote:
+    enabled: false
+  ProhibitEqualTildeOperator:
+    enabled: false
